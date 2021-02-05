@@ -1,6 +1,6 @@
 # Arbeitsproben
 
-2019/2020 [Download als PDF](https://github.com/AndreasTraut/Arbeitsproben/raw/master/Arbeitsproben%20Andreas%20Traut.pdf)
+2019/2020 [Download als PDF](https://raw.githubusercontent.com/AndreasTraut/Arbeitsproben/main/Arbeitsproben%20Andreas%20Traut.pdf)
 
 \[TOC\]
 
@@ -30,11 +30,11 @@ Falls Ihnen die beschriebene Navigation etwas schwerfällig erscheint, dann empf
 
 Es gibt bereits viele Artikel zum Thema „künstliche Intelligenz“. Trotzdem möchte ich gerne kurz meine Sicht auf das Thema *„künstliche Intelligenz in der Industrie“* so beschreiben, dass das Thema auch für Personen verständlich wird, die sich bisher wenig damit beschäftigt haben. Ich werde auch Empfehlungen zum Umsetzung von KI Techniken in Ihrer Firma geben.
 
-Ich lade Sie ein den kompletten Artikel [hier](https://github.com/AndreasTraut/Arbeitsproben/raw/master/Anwendungsf%C3%A4lle%20der%20KI%20in%20der%20Industrie.pdf) zu lesen. Darin zeige ich ein paar wenige, aber sehr wichtige Beispiele \(Absatzprognosen, automatische Bestellungen, Produktentwicklung, Qualitätskontrolle\) und versuche mit einem leicht verständlichen „trivialen Ansatz“ das Thema "Künstliche Intelligenz in der Industrie" wie folgt zu beschreiben:
+Ich lade Sie ein den kompletten Artikel [hier](https://raw.githubusercontent.com/AndreasTraut/Arbeitsproben/main/Anwendungsf%C3%A4lle%20der%20KI%20in%20der%20Industrie.pdf) zu lesen. Darin zeige ich ein paar wenige, aber sehr wichtige Beispiele \(Absatzprognosen, automatische Bestellungen, Produktentwicklung, Qualitätskontrolle\) und versuche mit einem leicht verständlichen „trivialen Ansatz“ das Thema "Künstliche Intelligenz in der Industrie" wie folgt zu beschreiben:
 
 ![](.gitbook/assets/KuenstlicheIntelligenz_480px%20%281%29.jpg)
 
-Das Schaubild zeigt auf der einen Seite die „**Eingangsdaten oder Rohmaterial**“ und auf der anderen „**Ausgangsdaten oder Endprodukte**“. Dazwischen steht ein **Prozess** \(dargestellt durch die beiden Pfeile\), der in der Firma abläuft. Die KI sollte dabei **Zusammenhänge** zwischen den Eingangsdaten/dem Rohmaterial und den Ausgangsdaten/dem Endprodukt verstehen und vorhersagen können. Beispielsweise sollte die KI vorhersagen können, was sich an den Ausgangsdaten/dem Endprodukt verändern würde, wenn sich an den Eingangsdaten/dem Rohmaterial etwas verändert hat. Details siehe [hier](https://github.com/AndreasTraut/Arbeitsproben/raw/master/Anwendungsf%C3%A4lle%20der%20KI%20in%20der%20Industrie.pdf).
+Das Schaubild zeigt auf der einen Seite die „**Eingangsdaten oder Rohmaterial**“ und auf der anderen „**Ausgangsdaten oder Endprodukte**“. Dazwischen steht ein **Prozess** \(dargestellt durch die beiden Pfeile\), der in der Firma abläuft. Die KI sollte dabei **Zusammenhänge** zwischen den Eingangsdaten/dem Rohmaterial und den Ausgangsdaten/dem Endprodukt verstehen und vorhersagen können. Beispielsweise sollte die KI vorhersagen können, was sich an den Ausgangsdaten/dem Endprodukt verändern würde, wenn sich an den Eingangsdaten/dem Rohmaterial etwas verändert hat. Details siehe [hier](https://raw.githubusercontent.com/AndreasTraut/Arbeitsproben/main/Anwendungsf%C3%A4lle%20der%20KI%20in%20der%20Industrie.pdf).
 
 ### [2.    Visualisierung von Daten mit Python](https://github.com/AndreasTraut/Visualization-of-Data-with-Python)
 
