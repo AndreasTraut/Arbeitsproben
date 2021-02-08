@@ -1,7 +1,7 @@
 Autor: Andreas Traut  
 Datum : 06.07.2020
 
-[Download als PDF](https://github.com/AndreasTraut/Arbeitsproben/raw/master/Anwendungsf%C3%A4lle%20der%20KI%20in%20der%20Industrie.pdf)
+[Download als PDF](https://raw.githubusercontent.com/AndreasTraut/Arbeitsproben/main/Anwendungsf%C3%A4lle%20der%20KI%20in%20der%20Industrie.pdf)
 
 [TOC]
 
