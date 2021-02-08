@@ -86,7 +86,7 @@ Es gibt viele kostenlose und frei verfügbare \([Open-Source](https://de.wikiped
 
 Wenn beispielsweise ein Bild von einem Bauteil vorliegt und sich die Frage stellt, was auf diesem Bild abgebildet ist, könnte ein Mensch das durch bloßes draufschauen schnell herausfinden. Der Mensch könnte auch sehen, ob das Bauteil defekt ist oder nicht. Die KI kann das auch und für diese Fragestellung wähle ich einen Deep-Learning Ansatz und nutze dabei das auf dem Bild-Datensatz ["ImageNet"](http://www.image-net.org/) bereits trainierte ["ResNet50"](https://www.tensorflow.org/api_docs/python/tf/keras/applications/ResNet50) Netz. Ich spare mir dadurch sehr viel Programmieraufwand und somit sind für mich nur 10 Zeilen Programmcode notwendig, damit mir das Modell sagt, dass es auf dem linken Bild mit 86% Wahrscheinlichkeit eine "Tasse" sieht und mit 6.8% eine "Kaffeetasse \(coffepot\)". Im rechten Bildsieht das Modell mit 76%-iger Wahrscheinlichkeit ein "Switch-Bauteil". Meinen Programmcode können Sie [hier](https://github.com/AndreasTraut/Deep-Learning/blob/master/Image_classification/Image_classifier_example_2_transfer_learning_ResNet52-German.ipynb) einsehen.
 
-| ![](.gitbook/assets/9145.jpg) | ![](.gitbook/assets/network-card-550544_1920.jpg) |
+| ![](.gitbook/assets/9145%20%284%29.jpg) | ![](.gitbook/assets/network-card-550544_1920.jpg) |
 | :--- | :--- |
 | ![](.gitbook/assets/9145_predict.jpg) | ![](.gitbook/assets/network-card-550544_1920_predict.jpg) |
 
@@ -104,11 +104,11 @@ Die zweite Frage ist: Wie geht man vor, um alle Dinge \(Bilder oder Texte\) paar
 
 Das Ergebnis meiner Arbeit war: Ich habe auf über 9000 Bildern \(je etwa 300\*300 Pixel\) den LSH Algorithmus angewendet, unter anderem auch meine Sammlung an Kirchenfenstern und Espressotassen \(ich trinke gerne Espresso und habe irgendwann angefangen, die Tassen zu fotografieren\). Auf meinem eigenen Computer hat diese Gruppierung ein paar Minuten gedauert und war nur einmalig notwendig. Danach habe ich ein völlig neues Bild einer Espressotasse aus dem Internet heruntergeladen:
 
-![](.gitbook/assets/testpicture_1.jpg.png)
+![](.gitbook/assets/testpicture_1.jpg%20%283%29.png)
 
 Dieses Bild habe ich dem Programm gegeben und damit dann ähnliche Bilder aus meiner Bildersammlung suchen lassen. Nach wenigen Sekunden hat mir das Programm dann diese 15 Bilder angezeigt:
 
-![](.gitbook/assets/testpicture_1similar15.png)
+![](.gitbook/assets/testpicture_1similar15%20%281%29%20%281%29.png)
 
 Dasselbe habe ich dann auch für meine Kirchenfenster Bilder getestet mit diesem Testbild:
 

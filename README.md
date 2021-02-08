@@ -18,19 +18,19 @@ Wie man dieser Graphik entnehmen kann, hat mich meine Leidenshaft für GitHub im
 
 ### Doch was habe ich dabei genau gemacht?
 
-Anbei möchte ich einen Überblick über meine Arbeit geben. Ich werde in diesem vorliegenden deutschen Text meine Arbeit kurz skizzieren. In den dort verlinkten GitHub-Verzeichnissen (Repositories) geht es dann in die Tiefe: dort erwartet Sie zunächst ein englischsprachiger Text, der die wesentlichen Inhalte dieses Repositories beschreibt. Jedes Repository hat einen eigenen Fokus bekommen, wie beispielsweise die "Visualisierung von Daten" oder "Machine Learning" usw. Von dort aus gelangen Sie dann in die konkrete Umsetzung: dem Python-Code, den Machine-Learning Libraries, den Big-Data Umsetzungen, den Deep-Learning Analysen. 
+Anbei möchte ich einen Überblick über meine Arbeit geben. Ich werde in diesem vorliegenden deutschen Text meine Arbeit kurz skizzieren. In den dort verlinkten GitHub-Verzeichnissen \(Repositories\) geht es dann in die Tiefe: dort erwartet Sie zunächst ein englischsprachiger Text, der die wesentlichen Inhalte dieses Repositories beschreibt. Jedes Repository hat einen eigenen Fokus bekommen, wie beispielsweise die "Visualisierung von Daten" oder "Machine Learning" usw. Von dort aus gelangen Sie dann in die konkrete Umsetzung: dem Python-Code, den Machine-Learning Libraries, den Big-Data Umsetzungen, den Deep-Learning Analysen.
 
 Ich habe versucht alles gut zu strukturieren und glaube, dass es dem geübten Leser gelingen wird, die für ihn relevanten Informationen schnell herauszulesen. Ganz nebenbei können Sie sich bei der Durchsicht meiner Arbeit auch ein Bild davon machen, wie gut meine Fähigkeiten sind Dinge zu strukturieren und dokumentieren. Es ist nicht immer ganz einfach, einen guten Ansatz zu finden.
 
-Sämtliche Dokumentation habe ich auch als **PDF zum download** bereitgestellt, was für Sie eventuell angenehmer zum Lesen oder Ausdrucken ist. Den Download-Link finden Sie jeweils am Anfang der Dokumentation. 
+Sämtliche Dokumentation habe ich auch als **PDF zum download** bereitgestellt, was für Sie eventuell angenehmer zum Lesen oder Ausdrucken ist. Den Download-Link finden Sie jeweils am Anfang der Dokumentation.
 
-Falls Ihnen die beschriebene Navigation etwas schwerfällig erscheint, dann empfehle ich Ihnen, einen Blick in [mein GitBook](https://andreas-traut.gitbook.io/arbeitsproben/) zu werfen. Dort ist die Navigation mit den beiden Menüleisten etwas bedienerfreundlicher. Inhaltlich ist es dasselbe. 
+Falls Ihnen die beschriebene Navigation etwas schwerfällig erscheint, dann empfehle ich Ihnen, einen Blick in [mein GitBook](https://andreas-traut.gitbook.io/arbeitsproben/) zu werfen. Dort ist die Navigation mit den beiden Menüleisten etwas bedienerfreundlicher. Inhaltlich ist es dasselbe.
 
 ### [1.    Anwendungsfälle der künstlichen Intelligenz in der Industrie](https://github.com/AndreasTraut/Arbeitsproben/blob/master/Anwendungsf%C3%A4lle%20der%20KI%20in%20der%20Industrie.md)
 
-Es gibt bereits viele Artikel zum Thema „künstliche Intelligenz“. Trotzdem möchte ich gerne kurz meine Sicht auf das Thema *„künstliche Intelligenz in der Industrie“* so beschreiben, dass das Thema auch für Personen verständlich wird, die sich bisher wenig damit beschäftigt haben. Ich werde auch Empfehlungen zum Umsetzung von KI Techniken in Ihrer Firma geben.
+Es gibt bereits viele Artikel zum Thema „künstliche Intelligenz“. Trotzdem möchte ich gerne kurz meine Sicht auf das Thema _„künstliche Intelligenz in der Industrie“_ so beschreiben, dass das Thema auch für Personen verständlich wird, die sich bisher wenig damit beschäftigt haben. Ich werde auch Empfehlungen zum Umsetzung von KI Techniken in Ihrer Firma geben.
 
-Ich lade Sie ein den kompletten Artikel [hier](https://raw.githubusercontent.com/AndreasTraut/Arbeitsproben/main/Anwendungsf%C3%A4lle%20der%20KI%20in%20der%20Industrie.pdf) zu lesen. Darin zeige ich ein paar wenige, aber sehr wichtige Beispiele \(Absatzprognosen, automatische Bestellungen, Produktentwicklung, Qualitätskontrolle\) und versuche mit einem leicht verständlichen „trivialen Ansatz“ das Thema "Künstliche Intelligenz in der Industrie" wie folgt zu beschreiben:
+Ich lade Sie ein den kompletten Artikel [hier ](https://raw.githubusercontent.com/AndreasTraut/Arbeitsproben/main/Anwendungsf%C3%A4lle%20der%20KI%20in%20der%20Industrie.pdf)zu lesen. Darin zeige ich ein paar wenige, aber sehr wichtige Beispiele \(Absatzprognosen, automatische Bestellungen, Produktentwicklung, Qualitätskontrolle\) und versuche mit einem leicht verständlichen „trivialen Ansatz“ das Thema "Künstliche Intelligenz in der Industrie" wie folgt zu beschreiben:
 
 ![](.gitbook/assets/KuenstlicheIntelligenz_480px%20%281%29.jpg)
 
@@ -38,7 +38,7 @@ Das Schaubild zeigt auf der einen Seite die „**Eingangsdaten oder Rohmaterial*
 
 ### [2.    Visualisierung von Daten mit Python](https://github.com/AndreasTraut/Visualization-of-Data-with-Python)
 
-Die Arbeit eines "Data Scientisten" mit Daten umfasst viele Bereiche. Welche dies sind beschreibt der [CRISP-Zyklus](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining), den  "Data Scientisten" bei ihrer Arbeit gerne zitieren und verfolgen:
+Die Arbeit eines "Data Scientisten" mit Daten umfasst viele Bereiche. Welche dies sind beschreibt der [CRISP-Zyklus](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining), den "Data Scientisten" bei ihrer Arbeit gerne zitieren und verfolgen:
 
 ![](.gitbook/assets/1024px-CRISP-DM_Process_Diagram.png)
 
@@ -64,19 +64,19 @@ abgelegt.
 
 ### [3.    "Machine Learning" mit Python und Spyder](https://github.com/AndreasTraut/Machine-Learning-with-Python)
 
-Meine erste "Machine Learning" Anwendung habe ich auf einer kleinen Kinofilme-Datenbank angewendet und dabei **wichtige Machine-Learning Konzepte kennengelernt** \(z.B. Aufteilen in **Trainings-Datensatz** und **Testdatensatz**, **Kreuzvalidierung**\). Dabei habe ich mich mit **Scikit-Learn** und Pipelines beschäftigt. Die Erkenntnis am Ende meiner Versuche war, dass der Datensatz zu klein war und die Machine Learning Algorithmen darauf keine guten Ergebnisse liefern konnten. Dieses Beispiel habe ich als <u>"Small Data"</u> bezeichnet und in meiner Dokumentation entsprechend kenntlich gemacht. 
+Meine erste "Machine Learning" Anwendung habe ich auf einer kleinen Kinofilme-Datenbank angewendet und dabei **wichtige Machine-Learning Konzepte kennengelernt** \(z.B. Aufteilen in **Trainings-Datensatz** und **Testdatensatz**, **Kreuzvalidierung**\). Dabei habe ich mich mit **Scikit-Learn** und Pipelines beschäftigt. Die Erkenntnis am Ende meiner Versuche war, dass der Datensatz zu klein war und die Machine Learning Algorithmen darauf keine guten Ergebnisse liefern konnten. Dieses Beispiel habe ich als "Small Data" bezeichnet und in meiner Dokumentation entsprechend kenntlich gemacht.
 
-In einem Seminar zu "Big Data", welches ich besucht habe, konnte ich weitere Vorgehensweisen kennenlernen, die eher nur bei großen Datenmengen nötig und von Nutzen sind \(z.B. Lambda-Architektur\). Hierbei habe ich mich mit **Apache Spark**, **Map-Reduce**, **K-Means Clustering**, **Local-Sensitive-Hashing (LSH)** und **Alternative-Least-Square (ALS)** beschäftigt. Dieses Beispiele habe ich als <u>"Big Data"</u> bezeichnet und in meiner Dokumentation entsprechend kenntlich gemacht. 
+In einem Seminar zu "Big Data", welches ich besucht habe, konnte ich weitere Vorgehensweisen kennenlernen, die eher nur bei großen Datenmengen nötig und von Nutzen sind \(z.B. Lambda-Architektur\). Hierbei habe ich mich mit **Apache Spark**, **Map-Reduce**, **K-Means Clustering**, **Local-Sensitive-Hashing \(LSH\)** und **Alternative-Least-Square \(ALS\)** beschäftigt. Dieses Beispiele habe ich als "Big Data" bezeichnet und in meiner Dokumentation entsprechend kenntlich gemacht.
 
 Zum Thema **Map-Reduce** habe ich in einem Exkurs ein anschauliches Beispiel erstellt und bin dabei auf das sehr populäres Maß **TF-idf** eingegangen, dass zum Extrahieren der wichtigsten Wörter eines Dokuments nützlich ist. In einem weiteren Beispiel habe ich die Besonderheiten des **K-Means Clustering** in der Spark-Umgebung an einem Beispiel erklärt. Zum Thema **"Local-Sensitive-Hashing" \(LSH\)** habe ich meine Erfahrungen in einem eigenen Verzeichnis gesammelt \(siehe [hier](https://github.com/AndreasTraut/Deep_learning_explorations)\). LSH ist eine Technik, die ähnliche Dinge mit einer hohen Wahrscheinlichkeit zusammen gruppiert und unter anderem im bei "Big Data"-Problemen einen großen Nutzen bringen kann, weil sich dadurch die Rechendauer deutlich reduzieren lässt.
 
-Es wurde klar für mich, dass man gut unterscheiden sollte, ob man nur einen kleinen Datensatz betrachtet (*"Small Data"*) oder ein *"Big Data"* Problem lösen möchte. Die Techniken unterscheiden sich grundlegend \(Stichwort: Map-Reduce\). Es gibt Algorithmen, die auf kleinen Datensätzen funktionieren, jedoch nicht auf einem "Big Data" Datensatz angewendet werden können. Und es gibt Algorithmen, die ohne einen "Big Data" Datensatz keine vernünftigen Ergebnisse liefern.
+Es wurde klar für mich, dass man gut unterscheiden sollte, ob man nur einen kleinen Datensatz betrachtet \(_"Small Data"_\) oder ein _"Big Data"_ Problem lösen möchte. Die Techniken unterscheiden sich grundlegend \(Stichwort: Map-Reduce\). Es gibt Algorithmen, die auf kleinen Datensätzen funktionieren, jedoch nicht auf einem "Big Data" Datensatz angewendet werden können. Und es gibt Algorithmen, die ohne einen "Big Data" Datensatz keine vernünftigen Ergebnisse liefern.
 
-Ein wichtiger Baustein beim Entwickeln all dieser Modelle ist die Entwicklungsumgebung. Mir scheint, dass das **Jupyter-Notebook** sehr populär ist, weil es übersichtlich und einfach zu bedienen ist. Doch mir war es wichtig, mich auch mit einer integrierten Entwicklungsumgebung \(IDE\), wie der **Spyder Entwicklungsumgebung** zu beschäftigen, um noch schneller und sicherer neue Tools entwickeln, testen und adaptieren zu können. 
+Ein wichtiger Baustein beim Entwickeln all dieser Modelle ist die Entwicklungsumgebung. Mir scheint, dass das **Jupyter-Notebook** sehr populär ist, weil es übersichtlich und einfach zu bedienen ist. Doch mir war es wichtig, mich auch mit einer integrierten Entwicklungsumgebung \(IDE\), wie der **Spyder Entwicklungsumgebung** zu beschäftigen, um noch schneller und sicherer neue Tools entwickeln, testen und adaptieren zu können.
 
-Das Ergebnis meiner Arbeit sind zwei verallgemeinerte Python-Skripte, die ich auch mit einem **Mind-Map** veranschaulicht habe: eines auf einem kleinen Datensatz ("Small Data" mit SkLearn) und eines auf einem Big Data Datensatz (Spark): 
+Das Ergebnis meiner Arbeit sind zwei verallgemeinerte Python-Skripte, die ich auch mit einem **Mind-Map** veranschaulicht habe: eines auf einem kleinen Datensatz \("Small Data" mit SkLearn\) und eines auf einem Big Data Datensatz \(Spark\):
 
-![](./media/MindMap_SkLearn_and_Spark.jpeg)
+![](.gitbook/assets/MindMap_SkLearn_and_Spark.jpeg)
 
 Meine Arbeiten habe ich unter
 
