@@ -5,5 +5,4 @@
 * [Visualization of Data with Python](visualization-of-data-with-python.md)
 * [Machine Learning with Python](machine-learning-with-python.md)
 * [Deep Learning](deep-learning.md)
-* [Untitled](untitled.md)
 
