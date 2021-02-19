@@ -21,7 +21,7 @@ In a next step I will show you how to build and share "data apps". Data Scientis
 
 I am a graduated *Diplom-Mathematician*. I am also a *Certified Data Scientist Basic Level*  and *Certified Data Scientist Specialized in Big Data Analytics*. 
 
-I am holding the *[Certificate of "Data Analysis with Python: Zero to Pandas"](https://jovian.ai/certificate/MFQTGOBQGM)* which covers topics like data visualization and exploratory data analysis on the basis of [Python](https://www.python.org/), [Numpy](https://numpy.org/), [Pandas](https://pandas.pydata.org/), [Matplotlib](https://matplotlib.org/) and [Seaborn](https://seaborn.pydata.org/). I can recommend this course and I wish I would have found this course before I wrote this repository, because it was very helpful. 
+I am holding the *[Certificate of "Data Analysis with Python: Zero to Pandas"](https://jovian.ai/certificate/MFQTGOBQGM)* which covers topics like data visualization and exploratory data analysis on the basis of [Python](https://www.python.org/), [Numpy](https://numpy.org/), [Pandas](https://pandas.pydata.org/), [Matplotlib](https://matplotlib.org/) and [Seaborn](https://seaborn.pydata.org/). I can recommend this course and I wish I would have found this course before I wrote this repository, because it was very helpful.
 
 ![](./media/DataAnalysiswithPythonZerotoPandas.jpg)
 
