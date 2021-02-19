@@ -1,33 +1,10 @@
-# Untitled
+# Visualization of Data with Python
 
 Author: Andreas Traut  
 Date: 21.01.2020  
 [Download als PDF](https://raw.githubusercontent.com/AndreasTraut/Visualization-of-Data-with-Python/main/README.pdf)  
 [![fig:](.gitbook/assets/0.svg)](https://travis-ci.com/AndreasTraut/Visualization-of-Data-with-Python) [![fig:](.gitbook/assets/1.svg)](https://codecov.io/gh/AndreasTraut/Visualization-of-Data-with-Python)  
 [![fig:](.gitbook/assets/2.svg)](https://share.streamlit.io/andreastraut/visualize-results-in-apps/main/app_Example_Marathon_extended.py)
-
-[Visualization of different datasets]()  
- [O. Introduction]()  
- [a\) Aim of this repository]()  
- [b\) My qualification]()  
- [c\) Future learnings]()  
- [d\) Structure of this repository]()  
- [\(i\) First part: examples]()  
- [\(ii\) Second part: how to easily visualize data and models?]()  
- [\(iii\) Third part: professional tools]()  
- [I. Examples]()  
- [1. Consumer Price Index: Converting dates and using Seaborn regression plot]()  
- [2. Last-FM: Statistics of my songs, which I listened to]()  
- [3. Marathon runtimes: finding systematics in the data]()  
- [4. Pedestrians in inner cities during the Corona-exit-lock]()  
- [5. Station Elevators of Deutsche Bahn via an API]()  
- [6. A very brief introduction into visualization of Big Data]()  
- [II. Data App: how to easily visualize data and models?]()  
- [III. Professional Tools]()  
- [1. Power BI]()  
- [2. Tableau]()  
- [3. QLink]()  
-[MIT License]()
 
 ## Visualization of different datasets
 
