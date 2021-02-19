@@ -32,7 +32,7 @@ Es gibt bereits viele Artikel zum Thema „künstliche Intelligenz“. Trotzdem 
 
 Ich lade Sie ein den kompletten Artikel [hier ](https://raw.githubusercontent.com/AndreasTraut/Arbeitsproben/main/Anwendungsf%C3%A4lle%20der%20KI%20in%20der%20Industrie.pdf)zu lesen. Darin zeige ich ein paar wenige, aber sehr wichtige Beispiele \(Absatzprognosen, automatische Bestellungen, Produktentwicklung, Qualitätskontrolle\) und versuche mit einem leicht verständlichen „trivialen Ansatz“ das Thema "Künstliche Intelligenz in der Industrie" wie folgt zu beschreiben:
 
-![](.gitbook/assets/KuenstlicheIntelligenz_480px%20%281%29.jpg)
+![](.gitbook/assets/KuenstlicheIntelligenz_480px%20%287%29.jpg)
 
 Das Schaubild zeigt auf der einen Seite die „**Eingangsdaten oder Rohmaterial**“ und auf der anderen „**Ausgangsdaten oder Endprodukte**“. Dazwischen steht ein **Prozess** \(dargestellt durch die beiden Pfeile\), der in der Firma abläuft. Die KI sollte dabei **Zusammenhänge** zwischen den Eingangsdaten/dem Rohmaterial und den Ausgangsdaten/dem Endprodukt verstehen und vorhersagen können. Beispielsweise sollte die KI vorhersagen können, was sich an den Ausgangsdaten/dem Endprodukt verändern würde, wenn sich an den Eingangsdaten/dem Rohmaterial etwas verändert hat. Details siehe [hier](https://raw.githubusercontent.com/AndreasTraut/Arbeitsproben/main/Anwendungsf%C3%A4lle%20der%20KI%20in%20der%20Industrie.pdf).
 
@@ -90,11 +90,11 @@ Das **Gruppieren von ähnlichen Dingen** ist in verschiedenen Unternehmensbereic
 
 Beispielsweise kennen wir die nützliche Google-Funktion, mit der sich ähnliche Bilder suchen lassen: man gibt einen Begriff in die Suchleiste ein und bekommt ähnliche Bilder angezeigt. Ich habe eine spezielle Vorgehensweise, das sogenannte **"Local-Sensitive-Hashing" \(LSH\)**, welche gerne für große Datenmengen \(Big Data\) angewendet wird, näher betrachtet und auf meine eigene Bilder-Sammlung angewendet. In wenigen Worten zusammengefasst \(etwas ausführlicher habe meine Vorgehensweise [hier](https://github.com/AndreasTraut/Deep_learning_explorations/blob/master/Aehnliche_Bilder_finden.md) beschrieben\): ich habe meinem Programm ein Bild übergeben, welches es noch nie zuvor gesehen hat, wie zum Beispiel diese hier:
 
-![](.gitbook/assets/testpicture_1.png)
+![](.gitbook/assets/testpicture_1.jpg%20%283%29%20%284%29.png)
 
 Dann habe ich mein Programm gefragt, ob es mir ähnliche Bilder aus meiner eigenen Bildersammlung zeigen kann \(selbstverständlich hat mein Programm Zugriff auf meine Bildersammlung\). Innerhalb weniger Sekunden konnte mir mein Programm dann diese ähnliche Bilder aus meiner Bildersammlung anzeigen:
 
-![](.gitbook/assets/testpicture_1similar15%20%281%29.png)
+![](.gitbook/assets/testpicture_1similar15%20%281%29%20%281%29.png)
 
 Diese Arbeiten habe ich unter
 
@@ -110,21 +110,21 @@ Die Technik, die ich dazu verwendet habe, nennt sich **Deep-Learning** und läss
 
 Danach habe ich ein Bildklassifizierungsproblem mit einem [**Convolutional Neural Network**](https://de.wikipedia.org/wiki/Convolutional_Neural_Network) genauer angeschaut am Beispiel der wohl bekanntesten Datensätze, dem _"Cifar10"_:
 
-![cifar10example](.gitbook/assets/cifar10example.png)
+![cifar10example](.gitbook/assets/cifar10example%20%285%29%20%286%29.png)
 
 sowie dem _"Cifar100"_:
 
-![cifar10example](.gitbook/assets/cifar100example_bignumbers%20%281%29.png)
+![cifar10example](.gitbook/assets/cifar100example_bignumbers%20%281%29%20%282%29%20%283%29.png)
 
 Ich glaube man kann sich ein ganzes Leben mit convolutional layern, pooling layern und dense layern und den vielen Hyperparametern, die man wählen muss beschäftigen. Mit einem ersten Modell habe ich zunächst eine Genauigkeit \(accuracy\) von 82% erreicht. Hier die Lernkurve:
 
-![](.gitbook/assets/learning_curve%20%281%29.png)
+![](.gitbook/assets/learning_curve%20%288%29%20%284%29.png)
 
 Selbstverständlich habe ich mir auch mein Espresso-Bild Beispiel mit Tensorflow betrachtet. Obwohl eines meiner Modelle nur eine Genauigkeit von 47% hatte, hat es für dieses Espresso-Bild hier ziemlich klar die korrekte Klasse bestimmt \(die mit dem längsten blauen Balken\).
 
-![](.gitbook/assets/9145%20%281%29.jpg)
+![](.gitbook/assets/9145%20%288%29%20%2811%29.jpg)
 
-![](.gitbook/assets/9145_scores.jpg)
+![](.gitbook/assets/9145_scores%20%285%29%20%286%29.jpg)
 
 Weitere Analysen würden an dieser Stelle zu sehr ins Details gehen. Ich habe sie unter
 
@@ -166,7 +166,7 @@ Die **Vorteile einer Cloud-Lösung** \(neben all den Problemen, die ich oben auf
 
 Ich möchte an einem anschaulichen Beispiel erläutern, wie eine Anwendung mit Hilfe von künstlicher Intelligenz schnell und effizient umgesetzt werden kann. Nehmen wir das folgendes Beispiel: eine Kamera soll erkennen, ob eine Person eine Corona-Schutzmaske trägt oder nicht und mit einer farbliche Kennzeichnung eine entsprechende Rückmeldung geben:
 
-![](.gitbook/assets/CoronaSchutzmaske_Aufbau%20%281%29.jpg)
+![](.gitbook/assets/CoronaSchutzmaske_Aufbau%20%281%29%20%281%29%20%282%29.jpg)
 
 Wir haben es also mit einem Problem aus der Bilderkennung zu tun, das sich beispielsweise mit einem "Deep-Learning" Ansatz, wie ich ihn [hier](https://github.com/AndreasTraut/Deep-Learning) beschrieben habe, lösen lässt. Die Umsetzung wäre aufwändig.
 
@@ -182,7 +182,7 @@ Dieses Beispiel sollte zeigen, dass es wichtig und sinnvoll ist, sich bereits um
 
 Im Juli 2020 konnte ich mich darüber freuen, dass auch mein GitHub Verzeichnis ausgewählt wurde, um in das legendäre GitHub Archiv aufgenommen zu werden, dem sogenannten “Arctic Code Vault” Archiv:
 
-![](.gitbook/assets/ArcticCodeVaultContributor%20%281%29.jpg)
+![](.gitbook/assets/ArcticCodeVaultContributor%20%281%29%20%281%29%20%282%29.jpg)
 
 Her Informationen siehe [hier](https://github.blog/2020-07-16-github-archive-program-the-journey-of-the-worlds-open-source-code-to-the-arctic/) und in diesem [Video](https://www.youtube.com/watch?v=fzI9FNjXQ0o).
 

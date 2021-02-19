@@ -44,7 +44,7 @@ As a first example I will work on image classification as follows:
 #### 1. Choose a dataset
 
 I choose the dataset _"Cifar10"_, which is a very well known and studied dataset of 60'000 small photos with 10 classes \(e.g frogs, trucks, cars, horses,...\):  
-![cifar10example](.gitbook/assets/cifar10example%20%284%29.png) For comparing the results I used the _"Cifar100"_, which has 100 classes instead of 10.
+![cifar10example](.gitbook/assets/cifar10example%20%285%29%20%284%29.png) For comparing the results I used the _"Cifar100"_, which has 100 classes instead of 10.
 
 ![](.gitbook/assets/cifar100example_bignumbers%20%281%29%20%282%29.png)
 
@@ -140,7 +140,7 @@ In the fastAI library the command `learn.fit_one_cycle(2)` trains only the last 
 
 This technique is called **"transfer learning"**: we want _"to use the knowledge gained from other models and use it for solving different but related problems"_ \(see [here](https://en.wikipedia.org/wiki/Transfer_learning)\). In the _"Caltech-101"_ example \(see [here](https://github.com/AndreasTraut/Deep_learning_explorations)\) I applied transfer learning by using the _"ResNet34"_ model and pre-trained weights, but I didn't use this technique in the _"Caltechown"_ example above. I can easily do this, as Tensorflow offers a lot of pretrained models, which can be used with very few lines of code, as you can see in my example [here](https://github.com/AndreasTraut/Arbeitsproben/tree/f176834303b8d0a917d5840299d71838bbd91faa/Image_classification/Image_classifier_example_2_transfer_learning_ResNet52.ipynb): I loaded the _"ResNet50"_ model by using the pre-trained weigths from the ImageNet dataset \(see `weights='imagenet'`\) and applied it on my espresso cup picture \(which is definitively not part of this dataset, because it's my own picture\).
 
-![](.gitbook/assets/9145%20%285%29.jpg)
+![](.gitbook/assets/9145%20%288%29%20%282%29.jpg)
 
 The result is, that the model is 86% sure, that this is a "cup" and further 11.9% \(6.7% plus 5.2%\) go to "coffeepot or "coffee\_mug", which is in total about 98% for something related to "cup" or "coffee":
 
