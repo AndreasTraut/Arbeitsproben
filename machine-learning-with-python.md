@@ -290,7 +290,7 @@ Initializing a Spark sessions works and reading a CSV file can by done with the 
 
 ![](.gitbook/assets/docker_jupyter_initialize_spark1.jpg)
 
-**0.1 Create Spark Context and  Spark Session**
+**0.1 Create Spark Context and Spark Session**
 
 ![](.gitbook/assets/docker_jupyter_initialize_spark2.jpg)
 
