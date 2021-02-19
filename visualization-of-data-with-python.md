@@ -23,7 +23,7 @@ I am a graduated *Diplom-Mathematician*. I am also a *Certified Data Scientist B
 
 I am holding the *[Certificate of "Data Analysis with Python: Zero to Pandas"](https://jovian.ai/certificate/MFQTGOBQGM)* which covers topics like data visualization and exploratory data analysis on the basis of [Python](https://www.python.org/), [Numpy](https://numpy.org/), [Pandas](https://pandas.pydata.org/), [Matplotlib](https://matplotlib.org/) and [Seaborn](https://seaborn.pydata.org/). I can recommend this course and I wish I would have found this course before I wrote this repository, because it was very helpful. 
 
-![](./media/DataAnalysiswithPythonZerotoPandas.jpg)
+![](.gitbook/assets/DataAnalysiswithPythonZerotoPandas.jpg)
 
 ### c) Future learnings
 
@@ -249,13 +249,13 @@ Have a look into my Python file to learn
 - how extract station names, number of elevators, status of elevators and longitude/latitude
 - how to use this information for visualization techniques
 
-![](./media/api_DeutscheBahn_station1.jpg)
+![](.gitbook/assets/api_DeutscheBahn_station1.jpg)
 
-![](./media/api_DeutscheBahn_station2.jpg)
+![](.gitbook/assets/api_DeutscheBahn_station2.jpg)
 
 After having understood and having extracted these meta data (station number, equipmentnumber) I was able to visualize them: as you can see in the screenshot above, when I handed over a stationnumber (e.g. 6323) to the Deutsche Bahn API with and received the number of elevators (here 4) and also the longitudes X=9.98278 and latitudes Y=48.39846 of this elevator. Taking these and using for example www.gps-coordinates.net you can easily visualize these longitudes and latitudes as follows: 
 
-![](./media/api_DeutscheBahn_station3.jpg)
+![](.gitbook/assets/api_DeutscheBahn_station3.jpg)
 
 Another possibility would have been to use [Geopy](https://github.com/geopy/geopy) and type the following code (please verify the ToS for using this service on your own: it's limited!): 
 
@@ -282,7 +282,7 @@ Once you are into the Spark environment you can easily aggregate, sort, group by
 
 The result are the following 10 lines of data, which can easily be moved into [Pandas](https://pypi.org/project/pandas/) or Excel where creating of bar-plots is very easy. 
 
-![](./media/BigDatavisualization.png)
+![](.gitbook/assets/BigDatavisualization.png)
 
 Similarly you may want to plot a chart of the aggregated "Amount" for a "Quarter Ending": 
 
@@ -290,9 +290,9 @@ Similarly you may want to plot a chart of the aggregated "Amount" for a "Quarter
 
 The result is a series with timestamps and the "sumofAmount", which can be plotted with Pandas very easily. 
 
-![](./media/BigDatavisualizationChart.png)
+![](.gitbook/assets/BigDatavisualizationChart.png)
 
-![](./media/BigDatavisualizationChartTop6.png)
+![](.gitbook/assets/BigDatavisualizationChartTop6.png)
 
 I think this example shows, how easy the visualization of Big Data datasets can be done, if you use more advanced tools instead of Excel. 
 
@@ -302,7 +302,7 @@ I think this example shows, how easy the visualization of Big Data datasets can 
 
 Data Scientist often forget, that all their visualizations (and also model), which they have built, need to be used by someone, who is probably not as skilled in all these technical requirements! Therefore it is important to find a solution, which is **easy to deploy** and **easy to use** for everyone (as well on a computer as also on a mobile phone), **stable** and **quickly customizable**. There are different solutions: when you are using the programming language `R` then the combination of [Tidyverse](https://www.tidyverse.org/) and [Shiny-App](https://shiny.rstudio.com/) will be an interesting option for you. But to me the `R / Tidyverse / Shiny` bundle seems a be the *"old-standard"* or even a bit *"old-fashioned"* as [this article](https://www.datarevenue.com/de-blog/streamlit-vs-dash-vs-shiny-vs-voila-vs-flask-vs-jupyter) reveals a strong increasing popularity for [Streamlit](https://www.streamlit.io/): 
 
-![](./media/streamlit.png)
+![](.gitbook/assets/streamlit.png)
 
 Quelle: [DataRevenue-Blog](https://www.datarevenue.com/de-blog/streamlit-vs-dash-vs-shiny-vs-voila-vs-flask-vs-jupyter)
 
@@ -310,13 +310,13 @@ I tested [Streamlit](https://www.streamlit.io/) and think: it is fantastic, beca
 
 I used the data of the "Maraton runtimes" example and as you can see I only had to change some very minor things in the python code (like `import streamlit as st` and write `st.pyplot(g)` instead of `plt.show()`) in order to create a "data app". You can upload another Excel-csv file by pressing the "Browse files" button, which will then be visualized. Using the checkboxes below will open more graphics (like histograms, kernel density, violion plots,...). See my [data app here](https://share.streamlit.io/andreastraut/visualize-results-in-apps/main/app_Example_Marathon_extended.py) and play around yourself. I uploaded the results of these two datasets (the left and right side of the window below) in the results folder. 
 
-![](./media/app_Example_Marathon_comp.jpg)
+![](.gitbook/assets/app_Example_Marathon_comp.jpg)
 
 
 
 And here is a second example: as everyone is talking about Corona/Covid and epidemiological models I thought that implementing the SEIR-Model would be an interesting example. Believe me: I read the [Wikipedia SEIR-article](https://de.wikipedia.org/wiki/SEIR-Modell) and implemented [the following Streamlit solution](https://share.streamlit.io/andreastraut/visualize-results-in-apps/main/app_SEIR_model.py) in less than half an hour. This is why I love Streamlit: highly efficient, lovely design and easy to deploy.
 
-![](./media/app_Example_SEIR_model.jpg)
+![](.gitbook/assets/app_Example_SEIR_model.jpg)
 
 
 
@@ -330,9 +330,9 @@ See here: https://powerbi.microsoft.com/de-de/
 
 Power BI from Microsoft is a very popular and probably the leading visualization tool for Big Data. 
 
-![](./media/powerbi.jpg)
+![](.gitbook/assets/powerbi.jpg)
 
-![](./media/powerbi_preise.jpg)
+![](.gitbook/assets/powerbi_preise.jpg)
 
 ### 2. Tableau
 
@@ -340,11 +340,11 @@ See here: https://www.tableau.com/de-de
 
 Tableau from Salesforce (which is an Oracle subsidiary) is a very interesting alternative. 
 
-![](./media/tableau_platform-3-800x5002x.jpg)
+![](.gitbook/assets/tableau_platform-3-800x5002x.jpg)
 
-![](./media/tableau_why-4-800x5252x.png)
+![](.gitbook/assets/tableau_why-4-800x5252x.png)
 
-![](./media/tableau_preise.jpg)
+![](.gitbook/assets/tableau_preise.jpg)
 
 ### 3. QLink
 
@@ -352,9 +352,9 @@ See here: https://www.qlik.com/de-de/
 
 QLink is a fast growing tool for business intelligence and data visualization. 
 
-![](./media/qlink.jpg)
+![](.gitbook/assets/qlink.jpg)
 
-![](./media/qlink_preise.jpg)
+![](.gitbook/assets/qlink_preise.jpg)
 
 
 
