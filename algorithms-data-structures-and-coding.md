@@ -50,13 +50,19 @@ There are various other ressources for earning a certificate and listing up, wha
 
 Another advice I can give you is to get into coding challenges. When you accept a coding challenge, then a problem will be shown and would have to solve it in your preferred programming language \(python, java, C++,...\). I tried [LeetCode](https://leetcode.com/) and you will find a lot of other websites, which provide similar concepts. On the left is the problem, on the right some place to programm a solution:
 
-
+![](.gitbook/assets/k_closest_neighbour_leetcode.jpg)
 
 Some of these problems were quiet interesting for me so I wanted to have them in my integrated development environment \(IDE\) [Spyder-IDE](https://www.spyder-ide.org/) in order to debug through the code and extend the examples a bit. I recommend to do use an integrated development environment \(IDE\) as often as you can, instead of always going through Jupyter Notebooks. In my opinion Jupyter Notebooks are **not** always the best environment for learning to code! I agree, that Jupyter Notebooks are nice for doing documentation of python code. It really looks beautiful. But I prefer debugging in an IDE instead of a Jupyter Notebook: having the possibility to set a breakpoint can be a pleasure for my nerves, specially if you have longer programms. Some of my longer Jupyter Notebooks feel from the hundrets line of code onwards more like pain than like anything helpful. And I also prefer having a "help window" or a "variable explorer", which is smoothly integrated into the IDE user interface. And there are a lot more advantages why getting familiar with an IDE is a big advantage compared to the very popular Jupyter Notebooks! I am very surprised, that everyone is talking about Jupyter Notebooks but IDEs are only mentionned very seldomly. But maybe my preferences are also a bit different, because I grew up in a [MS-DOS](https://de.wikipedia.org/wiki/MS-DOS) environment. :-\)
 
 Here is how the problem from above looks like in the Spyder-IDE:
 
+![](.gitbook/assets/k_closest_neighbour_spyder.jpg)
+
 Another example from LeetCode: the [Sort-Colors](https://leetcode.com/problems/sort-colors/) problem:
+
+![](.gitbook/assets/sort_colors_leetcode.jpg)
+
+![](.gitbook/assets/sort_colors_spyder.jpg)
 
 ### II. Examples
 
