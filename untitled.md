@@ -12,7 +12,9 @@ Date: 21.01.2020
 
 #### a\) Aim of this repository
 
-In the data scienctist environment the visualization is as important as the analysis itself. In this repository I worked on different datasets with the aim to visualize the data. I used python and libraries like e.g matplotlib \(https://matplotlib.org/\) or seaborn \(https://seaborn.pydata.org/\), which are available for free. If you want to use this part you are required to install these libraries. Each of the datasets, which I worked on, contains different topics of necessary preliminary work before I could visualize them, e.g. converting dates or numbers, adding/extracting information and so on. I will show you how this can be done.
+In the data scienctist environment the visualization is as important as the analysis itself. In this repository I worked on different datasets with the aim to visualize the data. I used python and libraries like e.g matplotlib \([https://matplotlib.org/](https://matplotlib.org/)\) or seaborn \([https://seaborn.pydata.org/](https://seaborn.pydata.org/)\), which are available for free. If you want to use this part you are required to install these libraries. Each of the datasets, which I worked on, contains different topics of necessary preliminary work before I could visualize them, e.g. converting dates or numbers, adding/extracting information and so on. I will show you how this can be done.
+
+In the data scienctist environment the visualization is as important as the analysis itself. In this repository I worked on different datasets with the aim to visualize the data. I used python and libraries like e.g matplotlib \([https://matplotlib.org/](https://matplotlib.org/)\) or seaborn \([https://seaborn.pydata.org/](https://seaborn.pydata.org/)\), which are available for free. If you want to use this part you are required to install these libraries. Each of the datasets, which I worked on, contains different topics of necessary preliminary work before I could visualize them, e.g. converting dates or numbers, adding/extracting information and so on. I will show you how this can be done.
 
 In a next step I will show you how to build and share "data apps". Data Scientist often forget, that all models, visualizations, which they have built, need to be used by someone, who is probably not as skilled in all these technical requirements. Such "data apps" are helpful to make the data accessible very quickly for everyone on all devices \(also mobile phones\).
 
@@ -26,37 +28,55 @@ I am holding the [_Certificate of "Data Analysis with Python: Zero to Pandas"_](
 
 #### c\) Future learnings
 
-After having completed learning these Visualization techniques you may proceed with my Machine-Learning Repository, see here: https://github.com/AndreasTraut/Machine-Learning-with-Python. Here I also show, how visualization with huge datasets works. Sometimes even csv-files can be so huge, that you won't be able to open them in Excel. Other techniques have to be applied in this case.
+After having completed learning these Visualization techniques you may proceed with my Machine-Learning Repository, see here: [https://github.com/AndreasTraut/Machine-Learning-with-Python](https://github.com/AndreasTraut/Machine-Learning-with-Python). Here I also show, how visualization with huge datasets works. Sometimes even csv-files can be so huge, that you won't be able to open them in Excel. Other techniques have to be applied in this case.
+
+After having completed learning these Visualization techniques you may proceed with my Machine-Learning Repository, see here: [https://github.com/AndreasTraut/Machine-Learning-with-Python](https://github.com/AndreasTraut/Machine-Learning-with-Python). Here I also show, how visualization with huge datasets works. Sometimes even csv-files can be so huge, that you won't be able to open them in Excel. Other techniques have to be applied in this case.
 
 #### d\) Structure of this repository
 
 **\(i\) First part: examples**
 
-&lt;u&gt;In the first part of this repository&lt;/u&gt; I will work on examples. For the visualization tasks, which I wanted to do here, I exemplary used these different datasets:
+In the first part of this repository I will work on examples. For the visualization tasks, which I wanted to do here, I exemplary used these different datasets:
 
-1. A public dataset of the "Consumer Price Index" from an official statistics website \(www.statistikdaten.bayern.de\)
-2. A dataset of my own songs, which I listened to \(66'955 songs since 2016, downloaded from www.last.fm\) and
+In the first part of this repository I will work on examples. For the visualization tasks, which I wanted to do here, I exemplary used these different datasets:
+
+1. A public dataset of the "Consumer Price Index" from an official statistics website \([www.statistikdaten.bayern.de](www.statistikdaten.bayern.de)\)
+2. A dataset of my own songs, which I listened to \(66'955 songs since 2016, downloaded from [www.last.fm](www.last.fm)\) and
 3. An artificially treated dataset of "Marathon run-times", where I showed how systematics in the data can be found.
 4. The number of pedestrians in inner cities when the Corona-exit-lock had been implemented
 5. The data from the Deutsche Bahn API to monitor status of their station elevators
 6. A very brief introduction into visualization of Big Data
+7. A public dataset of the "Consumer Price Index" from an official statistics website \([www.statistikdaten.bayern.de](www.statistikdaten.bayern.de)\)
+8. A dataset of my own songs, which I listened to \(66'955 songs since 2016, downloaded from [www.last.fm](www.last.fm)\) and
+9. An artificially treated dataset of "Marathon run-times", where I showed how systematics in the data can be found.
+10. The number of pedestrians in inner cities when the Corona-exit-lock had been implemented
+11. The data from the Deutsche Bahn API to monitor status of their station elevators
+12. A very brief introduction into visualization of Big Data
 
-For the third example "Marathon run-times" I also wrote a testing file and included Travis \(https://travis-ci.com/\) and Codecov \(https://codecov.io/\). The small icons \([![fig:](.gitbook/assets/4.svg)](https://travis-ci.com/AndreasTraut/Visualization-of-Data-with-Python) [![fig:](.gitbook/assets/5.svg)](https://codecov.io/gh/AndreasTraut/Visualization-of-Data-with-Python)\) are a nice feature for people here on GitHub showing them that the code has been tested.
+For the third example "Marathon run-times" I also wrote a testing file and included Travis \([https://travis-ci.com/](https://travis-ci.com/)\) and Codecov \([https://codecov.io/](https://codecov.io/)\). The small icons \([![fig:](.gitbook/assets/4.svg)](https://travis-ci.com/AndreasTraut/Visualization-of-Data-with-Python) [![fig:](.gitbook/assets/5.svg)](https://codecov.io/gh/AndreasTraut/Visualization-of-Data-with-Python)\) are a nice feature for people here on GitHub showing them that the code has been tested.
+
+For the third example "Marathon run-times" I also wrote a testing file and included Travis \([https://travis-ci.com/](https://travis-ci.com/)\) and Codecov \([https://codecov.io/](https://codecov.io/)\). The small icons \([![fig:](.gitbook/assets/4.svg)](https://travis-ci.com/AndreasTraut/Visualization-of-Data-with-Python) [![fig:](.gitbook/assets/5.svg)](https://codecov.io/gh/AndreasTraut/Visualization-of-Data-with-Python)\) are a nice feature for people here on GitHub showing them that the code has been tested.
 
 The three examples are available:
 
-* as ".py" files for being used for example in Spyder \(https://www.spyder-ide.org/\) and
-* as ".ipynb" Jupyter-Notebooks \(https://jupyter.org/\).
+* as ".py" files for being used for example in Spyder \([https://www.spyder-ide.org/](https://www.spyder-ide.org/)\) and
+* as ".ipynb" Jupyter-Notebooks \([https://jupyter.org/](https://jupyter.org/)\).
+* as ".py" files for being used for example in Spyder \([https://www.spyder-ide.org/](https://www.spyder-ide.org/)\) and
+* as ".ipynb" Jupyter-Notebooks \([https://jupyter.org/](https://jupyter.org/)\).
 
 Please have a look at these files for more information how I solved each of the examples.
 
 **\(ii\) Second part: how to easily visualize data and models?**
 
-&lt;u&gt;In the second part of this repository&lt;/u&gt; I will show you how to visualize and share the data with a "data app". I used [Streamlit](https://www.streamlit.io/), which is surprisingly easy if you want to connect your data with pyhton code directly to a very intuitive and easy to use application.
+In the second part of this repository I will show you how to visualize and share the data with a "data app". I used [Streamlit](https://www.streamlit.io/), which is surprisingly easy if you want to connect your data with pyhton code directly to a very intuitive and easy to use application.
+
+In the second part of this repository I will show you how to visualize and share the data with a "data app". I used [Streamlit](https://www.streamlit.io/), which is surprisingly easy if you want to connect your data with pyhton code directly to a very intuitive and easy to use application.
 
 **\(iii\) Third part: professional tools**
 
-&lt;u&gt;In the third part of this repository&lt;/u&gt; I will show some common professional tools, which offer visualization functionality. But these tools cost some money.
+In the third part of this repository I will show some common professional tools, which offer visualization functionality. But these tools cost some money.
+
+In the third part of this repository I will show some common professional tools, which offer visualization functionality. But these tools cost some money.
 
 ### I. Examples
 
@@ -66,7 +86,10 @@ I downloaded the consumer prices as CSV file, which has the following format:
 ![fig:](.gitbook/assets/6.jpeg)
 
 The preliminary work here was to convert the months \(e.g. "January"\) to a number/date. At the end I wanted to use the Seaborn regression plot \(seaborn.regplot\), which required me to convert the x-axis from date to a number. Please have a look at the Jupiter-Notebook for more information how I solved this. See here:  
-https://github.com/AndreasTraut/Visualization-of-Data-with-Python/blob/master/ConsumerPricesExample/ConsumerPrices.ipynb
+[https://github.com/AndreasTraut/Visualization-of-Data-with-Python/blob/master/ConsumerPricesExample/ConsumerPrices.ipynb](https://github.com/AndreasTraut/Visualization-of-Data-with-Python/blob/master/ConsumerPricesExample/ConsumerPrices.ipynb)
+
+The preliminary work here was to convert the months \(e.g. "January"\) to a number/date. At the end I wanted to use the Seaborn regression plot \(seaborn.regplot\), which required me to convert the x-axis from date to a number. Please have a look at the Jupiter-Notebook for more information how I solved this. See here:  
+[https://github.com/AndreasTraut/Visualization-of-Data-with-Python/blob/master/ConsumerPricesExample/ConsumerPrices.ipynb](https://github.com/AndreasTraut/Visualization-of-Data-with-Python/blob/master/ConsumerPricesExample/ConsumerPrices.ipynb)
 
 ![fig:](.gitbook/assets/7.png)  
 ![fig:](.gitbook/assets/8.png)
@@ -82,6 +105,10 @@ As this was interesting to me I tried to find an explanation or some evidence if
 Obviously I could have done this also in Excel, but as I am now in the Python framework, I can apply more tools on the data, which I will do in a next step. For example: as it seems that there is a connection between stock prices and consumer prices wouldn't it be nice to analyse if more "variables" \(like the stock prices\) could be found? And wouldn't it be interesting to create some sort of "predicting tool", which calculates the consumer prices index for me for a future date \(remember, that the volatility of stock prices increased years before the consumer price index did, so the stock price could perhaps be a "predicting variable" for the consumer price index\)? We already know, that there are some nice Python packages for doing this. This would be a task for a next step.
 
 #### 2. Last-FM: Statistics of my songs, which I listened to
+
+I am listening quiet a lot to music, either with my app on my mobile phone or my home sound-system. Since 2016 I am using Last-FM \(https://www.last.fm/home\) to upload my music statistics \(so called "scrobbling"\). Last-FM is creating following nice graphics for 2019:  
+![fig:](.gitbook/assets/10.jpeg)  
+![fig:](.gitbook/assets/11.jpeg)
 
 I am listening quiet a lot to music, either with my app on my mobile phone or my home sound-system. Since 2016 I am using Last-FM \(https://www.last.fm/home\) to upload my music statistics \(so called "scrobbling"\). Last-FM is creating following nice graphics for 2019:  
 ![fig:](.gitbook/assets/10.jpeg)  
@@ -135,7 +162,9 @@ My graphics for 2016:
 
 ![](.gitbook/assets/20.png)
 
-Please have a look at the Jupiter-Notebook for more information how I solved this. See here: https://github.com/AndreasTraut/Visualization-of-Data-with-Python/blob/master/LastFMExample/lastfm.ipynb
+Please have a look at the Jupiter-Notebook for more information how I solved this. See here: [https://github.com/AndreasTraut/Visualization-of-Data-with-Python/blob/master/LastFMExample/lastfm.ipynb](https://github.com/AndreasTraut/Visualization-of-Data-with-Python/blob/master/LastFMExample/lastfm.ipynb)
+
+Please have a look at the Jupiter-Notebook for more information how I solved this. See here: [https://github.com/AndreasTraut/Visualization-of-Data-with-Python/blob/master/LastFMExample/lastfm.ipynb](https://github.com/AndreasTraut/Visualization-of-Data-with-Python/blob/master/LastFMExample/lastfm.ipynb)
 
 #### 3. Marathon runtimes: finding systematics in the data
 
@@ -231,7 +260,10 @@ Here is an update of the above graphics as-of 07.04.2020 for Ulm, Münsterplatz:
 ![](.gitbook/assets/38.png)
 
 Please have a look here to see the whole analysis:  
-https://github.com/AndreasTraut/Visualization-of-Data-with-Python/blob/master/Pedestrians/Pedestrians.ipynb
+[https://github.com/AndreasTraut/Visualization-of-Data-with-Python/blob/master/Pedestrians/Pedestrians.ipynb](https://github.com/AndreasTraut/Visualization-of-Data-with-Python/blob/master/Pedestrians/Pedestrians.ipynb)
+
+Please have a look here to see the whole analysis:  
+[https://github.com/AndreasTraut/Visualization-of-Data-with-Python/blob/master/Pedestrians/Pedestrians.ipynb](https://github.com/AndreasTraut/Visualization-of-Data-with-Python/blob/master/Pedestrians/Pedestrians.ipynb)
 
 #### 5. Station Elevators of Deutsche Bahn via an API
 
@@ -276,7 +308,9 @@ I downloaded the list of all state of Vermont payments to vendors \(Open Data Co
 
 Once you are into the Spark environment you can easily aggregate, sort, group by what ever you want. I will show you [here](https://github.com/AndreasTraut/Machine-Learning-with-Python.) how this works. Take for example the columns "Department" and "Amount" \(it should be obvious, what is in these columns, I guess\). Then this line of code will show you the sum of column "Amount" grouped per department \(sorted descending\):
 
-data.groupBy\('Department'\).agg\(F.sum\('Amount'\).cast\('decimal\(20,2\)'\).alias\('sumofAmount'\)\).sort\('sumofAmount', ascending=False\).show\(truncate=False\)
+`data.groupBy('Department').agg(F.sum('Amount').cast('decimal(20,2)').alias('sumofAmount')).sort('sumofAmount', ascending=False).show(truncate=False)`
+
+`data.groupBy('Department').agg(F.sum('Amount').cast('decimal(20,2)').alias('sumofAmount')).sort('sumofAmount', ascending=False).show(truncate=False)`
 
 The result are the following 10 lines of data, which can easily be moved into [Pandas](https://pypi.org/project/pandas/) or Excel where creating of bar-plots is very easy.
 
@@ -284,7 +318,9 @@ The result are the following 10 lines of data, which can easily be moved into [P
 
 Similarly you may want to plot a chart of the aggregated "Amount" for a "Quarter Ending":
 
-spark\_df = data.groupBy\('Quarter Ending'\).agg\(F.sum\('Amount'\).cast\('decimal\(20,2\)'\).alias\('sumofAmount'\)\).sort\('Quarter Ending', ascending=True\)
+`spark_df = data.groupBy('Quarter Ending').agg(F.sum('Amount').cast('decimal(20,2)').alias('sumofAmount')).sort('Quarter Ending', ascending=True)`
+
+`spark_df = data.groupBy('Quarter Ending').agg(F.sum('Amount').cast('decimal(20,2)').alias('sumofAmount')).sort('Quarter Ending', ascending=True)`
 
 The result is a series with timestamps and the "sumofAmount", which can be plotted with Pandas very easily.
 
@@ -306,6 +342,8 @@ Quelle: [DataRevenue-Blog](https://www.datarevenue.com/de-blog/streamlit-vs-dash
 
 I tested [Streamlit](https://www.streamlit.io/) and think: it is fantastic, because I didn't have to spend time on building a webpage or learn HTML, CSS or Wordpress. Everyhing is in Python and once the setup is done \(which is easy\) all I have to do for updating the whole data app is to save the Python file \(no compiling needed\). I believe that Python in combination with Streamlit is a very strong combination which will beat the R / Tidyverse / Shiny alternative! Here are some examples:
 
+I tested [Streamlit](https://www.streamlit.io/) and think: it is fantastic, because I didn't have to spend time on building a webpage or learn HTML, CSS or Wordpress. Everyhing is in Python and once the setup is done \(which is easy\) all I have to do for updating the whole data app is to save the Python file \(no compiling needed\). I believe that Python in combination with Streamlit is a very strong combination which will beat the R / Tidyverse / Shiny alternative! Here are some examples:
+
 I used the data of the "Maraton runtimes" example and as you can see I only had to change some very minor things in the python code \(like import streamlit as st and write st.pyplot\(g\) instead of plt.show\(\)\) in order to create a "data app". You can upload another Excel-csv file by pressing the "Browse files" button, which will then be visualized. Using the checkboxes below will open more graphics \(like histograms, kernel density, violion plots,...\). See my [data app here](https://share.streamlit.io/andreastraut/visualize-results-in-apps/main/app_Example_Marathon_extended.py) and play around yourself. I uploaded the results of these two datasets \(the left and right side of the window below\) in the results folder.
 
 ![](.gitbook/assets/47.jpeg)
@@ -320,7 +358,9 @@ There are different tools, which provide fantastic possibilities for visualizati
 
 #### 1. Power BI
 
-See here: https://powerbi.microsoft.com/de-de/
+See here: [https://powerbi.microsoft.com/de-de/](https://powerbi.microsoft.com/de-de/)
+
+See here: [https://powerbi.microsoft.com/de-de/](https://powerbi.microsoft.com/de-de/)
 
 Power BI from Microsoft is a very popular and probably the leading visualization tool for Big Data.
 
@@ -330,7 +370,9 @@ Power BI from Microsoft is a very popular and probably the leading visualization
 
 #### 2. Tableau
 
-See here: https://www.tableau.com/de-de
+See here: [https://www.tableau.com/de-de](https://www.tableau.com/de-de)
+
+See here: [https://www.tableau.com/de-de](https://www.tableau.com/de-de)
 
 Tableau from Salesforce \(which is an Oracle subsidiary\) is a very interesting alternative.
 
@@ -342,7 +384,9 @@ Tableau from Salesforce \(which is an Oracle subsidiary\) is a very interesting 
 
 #### 3. QLink
 
-See here: https://www.qlik.com/de-de/
+See here: [https://www.qlik.com/de-de/](https://www.qlik.com/de-de/)
+
+See here: [https://www.qlik.com/de-de/](https://www.qlik.com/de-de/)
 
 QLink is a fast growing tool for business intelligence and data visualization.
 
@@ -354,21 +398,17 @@ QLink is a fast growing tool for business intelligence and data visualization.
 
 Copyright \(c\) 2020 Andras Traut
 
-Permission is hereby granted, free of charge, to any person obtaining a copy  
-of this software and associated documentation files \(the "Software"\), to deal  
-in the Software without restriction, including without limitation the rights  
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell  
-copies of the Software, and to permit persons to whom the Software is  
-furnished to do so, subject to the following conditions:
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files \(the "Software"\), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all  
-copies or substantial portions of the Software.
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files \(the "Software"\), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR  
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,  
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE  
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER  
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,  
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE  
-SOFTWARE.
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE  
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE  
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
