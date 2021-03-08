@@ -98,7 +98,7 @@ Let's have a short look into the VBA code:
 
 You can download this example from my repository:
 
-[https://github.com/AndreasTraut/Algorithms-Data-Structures-and-Coding/Excel\_Example](https://github.com/AndreasTraut/Algorithms-Data-Structures-and-Coding/Excel_Example)
+[https://github.com/AndreasTraut/Algorithms-Data-Structures-and-Coding/tree/main/Excel\_Example](https://github.com/AndreasTraut/Algorithms-Data-Structures-and-Coding/tree/main/Excel_Example)
 
 #### 3. Access-Example
 
