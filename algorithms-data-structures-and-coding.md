@@ -74,9 +74,13 @@ I solved several problems, which require algorithmic thinking \(e.g. recursion\)
 
 * Find the K nearest points to the origin, given some points in the plane.
 * Sort the list of color-codes.
-* Calculate the delay time for a signal, which is send over a network graph.
+* Calculate the delay time which is necessary to send a signal from the source "zero" to all other nodes in a network graph \(a directed, weighted graph\):
 
 ![](.gitbook/assets/networkgraph.png)
+
+* A "Rucksack/Knapsack" problem: imagine, that you have a limited amount of money \(capacity=2000 Euros\) and you have the choice between several devices, each having it's own cost \(mobile phone: 630 Euros, smartwatch: 780 Euros, computer: 1400 Euros, tablet: 480 Euros\). Assume, that you have assigned to each of these devices an "individual profit" \(the value, which this device creates for you\). Which devices should you buy in order to maximize your profit? What would be the best choice?
+
+![](.gitbook/assets/rucksack_knapsack_.png)
 
 Each time I will build some test-cases before going into the solution and also use the Jovian "evaluate\_test\_cases" module to efficiently perform the tests.
 
