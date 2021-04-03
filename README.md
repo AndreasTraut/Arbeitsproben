@@ -190,6 +190,6 @@ Her Informationen siehe [hier](https://github.blog/2020-07-16-github-archive-pro
 
 ### Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
 
-![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](J:\Meine Daten\GitHub\Arbeitsproben\Arbeitsproben\media\by-nc-sa.png)
+![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](.\media\by-nc-sa.png)
 
 This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
