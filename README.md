@@ -26,7 +26,7 @@ Sämtliche Dokumentation habe ich auch als **PDF zum download** bereitgestellt, 
 
 Falls Ihnen die beschriebene Navigation etwas schwerfällig erscheint, dann empfehle ich Ihnen, einen Blick in [mein GitBook](https://andreas-traut.gitbook.io/arbeitsproben/) zu werfen. Dort ist die Navigation mit den beiden Menüleisten etwas bedienerfreundlicher. Inhaltlich ist es dasselbe.
 
-Ich habe inzwischen auch mein Buch "From Zero to Senior Data Science" veröffentlich. Auf mehr als 120 Seiten behandle ich dabei die Thematik Machine-Learning und Big Data. Bitte fragen Sie mich nach einer Kopie, dann lass ich Sie Ihnen gerne zukommen. 
+Ich habe inzwischen auch mein Buch "From Zero to Senior Data Science" veröffentlich. Auf mehr als 120 Seiten behandle ich dabei die Thematik Machine-Learning und Big Data. Bitte fragen Sie mich nach einer Kopie, dann lasse ich Sie Ihnen gerne zukommen. 
 
 ![From Zero to Senior Data Science](.gitbook/assets/bookcovers250.jpg)
 
