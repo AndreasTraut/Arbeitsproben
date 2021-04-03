@@ -26,6 +26,10 @@ Sämtliche Dokumentation habe ich auch als **PDF zum download** bereitgestellt, 
 
 Falls Ihnen die beschriebene Navigation etwas schwerfällig erscheint, dann empfehle ich Ihnen, einen Blick in [mein GitBook](https://andreas-traut.gitbook.io/arbeitsproben/) zu werfen. Dort ist die Navigation mit den beiden Menüleisten etwas bedienerfreundlicher. Inhaltlich ist es dasselbe.
 
+Ich habe inzwischen auch mein Buch "From Zero to Senior Data Science" veröffentlich. Auf mehr als 120 Seiten behandle ich dabei die Thematik Machine-Learning und Big Data. Bitte fragen Sie mich nach einer Kopie, dann lass ich Sie Ihnen gerne zukommen. 
+
+![From Zero to Senior Data Science](.\media\bookcovers250.jpg)
+
 ### [1.    Anwendungsfälle der künstlichen Intelligenz in der Industrie](https://github.com/AndreasTraut/Arbeitsproben/blob/master/Anwendungsf%C3%A4lle%20der%20KI%20in%20der%20Industrie.md)
 
 Es gibt bereits viele Artikel zum Thema „künstliche Intelligenz“. Trotzdem möchte ich gerne kurz meine Sicht auf das Thema _„künstliche Intelligenz in der Industrie“_ so beschreiben, dass das Thema auch für Personen verständlich wird, die sich bisher wenig damit beschäftigt haben. Ich werde auch Empfehlungen zum Umsetzung von KI Techniken in Ihrer Firma geben.
