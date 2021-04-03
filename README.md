@@ -28,7 +28,7 @@ Falls Ihnen die beschriebene Navigation etwas schwerfällig erscheint, dann empf
 
 Ich habe inzwischen auch mein Buch "From Zero to Senior Data Science" veröffentlich. Auf mehr als 120 Seiten behandle ich dabei die Thematik Machine-Learning und Big Data. Bitte fragen Sie mich nach einer Kopie, dann lass ich Sie Ihnen gerne zukommen. 
 
-![From Zero to Senior Data Science](.\media\bookcovers250.jpg)
+![From Zero to Senior Data Science](.gitbook/assets/bookcovers250.jpg)
 
 ### [1.    Anwendungsfälle der künstlichen Intelligenz in der Industrie](https://github.com/AndreasTraut/Arbeitsproben/blob/master/Anwendungsf%C3%A4lle%20der%20KI%20in%20der%20Industrie.md)
 
