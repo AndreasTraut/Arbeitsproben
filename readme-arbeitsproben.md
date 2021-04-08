@@ -192,8 +192,6 @@ Her Informationen siehe [hier](https://github.blog/2020-07-16-github-archive-pro
 
 ![](.gitbook/assets/ArcticCodeVault.jpg)
 
-
-
 ### Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
 
 ![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](.\media\by-nc-sa.png)
