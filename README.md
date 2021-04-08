@@ -8,7 +8,7 @@
 
 ### Darf ich mich vorstellen?
 
-Mein Name ist Andreas Traut. Ich habe in Ulm studiert und war als Risikocontroller sowie auch als Auditor in Banken und Versicherungen tätig. Ich habe ein Jahr in Frankreich gelebt und dort meinen Bachelor in Mathematik gemacht. Mein Diplom in Mathematik mit Nebenfach Informatik habe ich in Freiburg absolviert. Anfang 2021 habe ich mich zum **zertifizierten "Advanced Data Scientist"** qualifiziert. Ich habe 5 Jahre in der Schweiz gelebt und nun bin ich wieder in meiner Heimat Ulm.
+Mein Name ist Andreas Traut. Ich habe in Ulm studiert und war als Risikocontroller sowie auch als Auditor in Banken und Versicherungen tätig. Ich habe ein Jahr in Frankreich gelebt und dort meinen Bachelor in Mathematik gemacht. Mein Diplom in Mathematik mit Nebenfach Informatik habe ich in Freiburg absolviert. Anfang 2021 habe ich mich zum zertifizierten "Advanced Data Scientist" qualifiziert. Ich habe 5 Jahre in der Schweiz gelebt und nun bin ich wieder in meiner Heimat Ulm.
 
 ![](.gitbook/assets/Beitraege.jpg)
 
@@ -26,7 +26,7 @@ Sämtliche Dokumentation habe ich auch als **PDF zum download** bereitgestellt, 
 
 Falls Ihnen die beschriebene Navigation etwas schwerfällig erscheint, dann empfehle ich Ihnen, einen Blick in [mein GitBook](https://andreas-traut.gitbook.io/arbeitsproben/) zu werfen. Dort ist die Navigation mit den beiden Menüleisten etwas bedienerfreundlicher. Inhaltlich ist es dasselbe.
 
-Ich habe inzwischen auch mein Buch **"From Zero to Senior Data Science"** veröffentlich. Auf mehr als 120 Seiten behandle ich dabei die Thematik Machine-Learning und Big Data. Bitte fragen Sie mich nach einer Kopie, dann lasse ich Sie Ihnen gerne zukommen. 
+Ich habe inzwischen auch mein Buch **"From Zero to Senior Data Science"** veröffentlich. Auf mehr als 120 Seiten behandle ich dabei die Thematik Machine-Learning und Big Data. Bitte fragen Sie mich nach einer Kopie, dann lasse ich Sie Ihnen gerne zukommen.
 
 ![From Zero to Senior Data Science](.gitbook/assets/bookcovers250.png)
 
@@ -192,8 +192,3 @@ Her Informationen siehe [hier](https://github.blog/2020-07-16-github-archive-pro
 
 ![](.gitbook/assets/ArcticCodeVault.jpg)
 
-### Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
-
-![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](.\media\by-nc-sa.png)
-
-This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
